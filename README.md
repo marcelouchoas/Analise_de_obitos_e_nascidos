@@ -16,6 +16,4 @@ Pelo o que foi analisado, houve um crescimento na mortalidade em regiões como n
 
 ### Equipe
 
-**Marcelo Uchôas de Oliveira**
-
-**Ana Clara Ferreira de Godoy**
+Marcelo Uchôas de Oliveira e Ana Clara Ferreira de Godoy
